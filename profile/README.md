@@ -9,16 +9,16 @@
 ![6 DESIGN CONCEPT-1.png](images/6_DESIGN_CONCEPT-1.png)
 ![7 CHARACTOR.png](images/7_CHARACTOR.png)
 
-![8 gui 01.png](images/8_gui_01.png)
+![8 gui 01.png](images/8_gui01.png)
 
-![9 gui 02.png](images/9_gui_02.png)
-![10 gui 3.png](images/10_gui_3.png)
+![9 gui 02.png](images/9_gui02.png)
+![10 gui 3.png](images/10_gui03.png)
 
-![11 gui 4.png](images/11_gui_4.png)
+![11 gui 4.png](images/11_gui04.png)
 
-![12 gui 5.png](images/12_gui_5.png)
+![12 gui 5.png](images/12_gui05.png)
 
-![13 gui 6.png](images/13_gui_6.png)
+![13 gui 6.png](images/13_gui06.png)
 
 ### 운영체제
 iOS
